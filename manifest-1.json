@@ -1,0 +1,20 @@
+{
+  "short_name": "ProBot",
+  "name": "ProBot - Bot for Discord",
+  "icons": [
+    {
+      "src": "./static/favicon_144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./static/favicon_256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#2F3136"
+}
